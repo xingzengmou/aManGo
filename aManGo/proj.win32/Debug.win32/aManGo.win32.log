@@ -1,0 +1,18 @@
+﻿Build started 2013/3/10 18:07:34.
+     1>Project "F:\design\aManGo\aManGo\proj.win32\aManGo.win32.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /I..\Classes /IF:\design\aManGo\cocos2dx /IF:\design\aManGo\cocos2dx\include /IF:\design\aManGo\cocos2dx\kazmath\include /IF:\design\aManGo\cocos2dx\platform\win32 /IF:\design\aManGo\cocos2dx\platform\third_party\win32 /IF:\design\aManGo\cocos2dx\platform\third_party\win32\OGLES /IF:\design\aManGo\external /IF:\design\aManGo\CocosDenshion\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS_DEBUG /D COCOS2D_DEBUG=1 /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt FlyScene.cpp
+         FlyScene.cpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\design\aManGo\Debug.win32\aManGo.win32.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\design\aManGo\Debug.win32\ libcocos2d.lib opengl32.lib glew32.lib libBox2d.lib libCocosDenshion.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\design\aManGo\Debug.win32\aManGo.win32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\design\aManGo\Debug.win32\aManGo.win32.lib" /MACHINE:X86 Debug.win32\aManGo.res
+         Debug.win32\AppDelegate.obj
+         Debug.win32\HelloWorldScene.obj
+         Debug.win32\FlyScene.obj
+         Debug.win32\main.obj
+         Debug.win32\TitleScene.obj
+         aManGo.win32.vcxproj -> F:\design\aManGo\Debug.win32\aManGo.win32.exe
+     1>Done Building Project "F:\design\aManGo\aManGo\proj.win32\aManGo.win32.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.56

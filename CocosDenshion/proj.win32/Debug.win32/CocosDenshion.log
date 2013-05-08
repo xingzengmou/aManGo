@@ -1,0 +1,18 @@
+﻿Build started 2013/3/2 9:44:43.
+     1>Project "F:\game\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\proj.win32\CocosDenshion.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include" /I..\Include /I"F:\game\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\proj.win32\..\..\cocos2dx" /I"F:\game\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\proj.win32\..\..\cocos2dx\include" /I"F:\game\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\proj.win32\..\..\cocos2dx\kazmath\include" /I"F:\game\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\proj.win32\..\..\cocos2dx\platform\win32" /I"F:\game\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\proj.win32\..\..\cocos2dx\platform\third_party\win32\OGLES" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D COCOSDENSHIONWIN32_EXPORTS /D _EXPORT_DLL_ /D _WINDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TP /wd4251 /analyze- /errorReport:prompt ..\win32\MciPlayer.cpp ..\win32\SimpleAudioEngine.cpp
+         SimpleAudioEngine.cpp
+         MciPlayer.cpp
+         Generating Code...
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\game\cocos2d-2.1beta3-x-2.1.1\Debug.win32\libCocosDenshion.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:"F:\game\cocos2d-2.1beta3-x-2.1.1\Debug.win32\\" winmm.lib libcocos2d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\game\cocos2d-2.1beta3-x-2.1.1\Debug.win32\libCocosDenshion.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\game\cocos2d-2.1beta3-x-2.1.1\Debug.win32\libCocosDenshion.lib" /MACHINE:X86 /SAFESEH /DLL Debug.win32\MciPlayer.obj
+         Debug.win32\SimpleAudioEngine.obj
+     1>MciPlayer.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+            Creating library F:\game\cocos2d-2.1beta3-x-2.1.1\Debug.win32\libCocosDenshion.lib and object F:\game\cocos2d-2.1beta3-x-2.1.1\Debug.win32\libCocosDenshion.exp
+         CocosDenshion.vcxproj -> F:\game\cocos2d-2.1beta3-x-2.1.1\Debug.win32\libCocosDenshion.dll
+     1>Done Building Project "F:\game\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\proj.win32\CocosDenshion.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.50
